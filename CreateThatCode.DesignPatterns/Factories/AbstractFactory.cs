@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CreateThatCode.DesignPatterns.Factories
+﻿namespace CreateThatCode.DesignPatterns.Factories
 {
     public abstract class Chasis { }
     public abstract class GearBox { }
